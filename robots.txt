@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teenpattiau.com/sitemap.xml
